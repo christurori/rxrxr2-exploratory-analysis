@@ -1,0 +1,9 @@
+# Os files
+.DS_Store
+
+# Notebooks
+.ipynb_checkpoints/*
+
+# Data
+rxrx2-dl-embeddings.csv
+metadata.csv
