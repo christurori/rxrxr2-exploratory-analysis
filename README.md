@@ -1,1 +1,1 @@
-# rxrxr2-exploratory-analysis
+# rxrx2-exploratory-analysis
