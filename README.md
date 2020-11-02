@@ -1,9 +1,9 @@
 # rxrx2-exploratory-analysis
 
-Exploring the RxRx2 embedding dataset provided by Recursion. 
-Link: https://www.rxrx.ai/rxrx2
+Exploring the RxRx2 embedding dataset provided by Recursion: https://www.rxrx.ai/rxrx2
 
-[![CC BY-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+[CC BY-SA 4.0][cc-by-nc-sa-image]
 
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
