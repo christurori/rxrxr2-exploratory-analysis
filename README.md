@@ -3,7 +3,7 @@
 Exploring the RxRx2 embedding dataset provided by Recursion: https://www.rxrx.ai/rxrx2
 
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
-[CC BY-SA 4.0][cc-by-nc-sa-image]
+[![CC BY-SA 4.0][cc-by-nc-sa-image]]
 
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
